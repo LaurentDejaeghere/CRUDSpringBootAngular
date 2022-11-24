@@ -1,0 +1,3 @@
+[submodule "angular-front"]
+	path = angular-front
+	url = https://github.com/LaurentDejaeghere/CRUDSpringBootAngular.git
